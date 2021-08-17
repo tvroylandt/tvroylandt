@@ -11,8 +11,10 @@ links:
   - label: Email
     url: "mailto:thomas@tillac-data.com"
 format:
-  html:
-    template: "jolla_remix.html"
+  # html:
+  #   template: "jolla_remix.html"
+  gfm:
+    preserve_yaml: false
 ---
 
 :::{.container}

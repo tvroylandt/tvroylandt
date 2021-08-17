@@ -1,7 +1,7 @@
 ---
 format:
-  html:
-    template: jolla_remix.html
+  gfm:
+    preserve_yaml: false
 image: elephant.png
 links:
 - label: LinkedIn
@@ -12,6 +12,7 @@ links:
   url: "https://github.com/tvroylandt/"
 - label: Email
   url: "mailto:thomas@tillac-data.com"
+preserve_yaml: false
 title: Thomas Vroylandt
 ---
 
