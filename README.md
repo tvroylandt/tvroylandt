@@ -1,58 +1,26 @@
----
-format:
-  gfm:
-    preserve_yaml: false
-image: elephant.png
-links:
-- label: LinkedIn
-  url: "https://www.linkedin.com/in/thomas-vroylandt-9a2334190/"
-- label: Twitter
-  url: "https://twitter.com/tvroylandt/"
-- label: GitHub
-  url: "https://github.com/tvroylandt/"
-- label: Email
-  url: "mailto:thomas@tillac-data.com"
-preserve_yaml: false
-title: Thomas Vroylandt
----
-
-<div class="container">
-
-<div class="row">
-
-<div class="col-sm">
-
 ### \[EN\]
 
 I’m a data analyst from France. On one side, I work at Unédic, where I
 help the social partners to design and evalutate the unemployment
-insurance rules. On the other side, I founded [Tillac](tillac-data.com).
-I help you to better understand their data and I use R to create custom
-products for them such as dashboards or reports.
+insurance rules.
 
-I also like to play badminton. I’m also involved to promote scouting for
+On the other side, I also work as an independant consultant.
+I help you to better understand their data and I use R to create custom
+products for them such as dashboards or reports. I love {pagedown}.
+
+I’m also involved to promote scouting for
 the youth (and the older to).
 
-</div>
-
-<div class="col-sm">
 
 ### \[FR\]
 
 Statisticien de profession, je travaille d’un coté au sein de l’Unédic
 où j’aide les partenaires sociaux à analyser et construire les règles de
-l’Assurance Chômage. De l’autre côté, j’ai fondé
-[Tillac](tillac-data.com) où j’aide ceux qui en ont besoin à mieux
+l’Assurance Chômage. 
+
+De l’autre côté, je suis aussi indépendant. K’aide ceux qui en ont besoin à mieux
 comprendre leurs données. Expert R, je l’utilise pour construire des
 tableaux de bords et rapports.
 
-Joueur de badminston, je suis aussi engagé au sein des [Scouts et Guides
+Je suis aussi engagé au sein des [Scouts et Guides
 de France](sgdf.fr) afin de développer le mouvement.
-
-</div>
-
-</div>
-
-</div>
-
-<!-- -->
