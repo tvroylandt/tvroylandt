@@ -4,6 +4,12 @@ Welcome to my Github Profile !
 
 I'm a data everything from France (replace with analyst/scientist or whatever you prefer). I work as an independant consultant (in fact with my wife) @Kantiles.
 
+I often work with [R for the Rest of Us](https://rfortherestofus.com/consulting).
+
+Checkout my [website](https://tvroylandt.github.io/personal/) or my [compagny's website](https://kantiles.com/) (both in construction by now).
+
+📧 You can reach me at [thomas@kantiles.com](mailto:thomas@kantiles.com)
+
 I like to build reports by hundreds, create dashboards that won't break your mind or your computer, refine data workflow or simply help people to do a better job with data.
 
 My toolbox includes R, Quarto, Python, JavaScript (mostly Observable) and some styling languages like HTML or CSS.
