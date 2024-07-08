@@ -37,6 +37,8 @@ On the interactive side:
 
 -   I also made some [data exploration](https://kantiles.github.io/prix-ehpad-web/) with MapLibre and JS
 
+<img src="assets/maplibre.png" width="400px">
+
 If you came here after UseR 2024 of the Rencontres R, here are my talks :
 
 -   [UseR 2024](https://github.com/tvroylandt/user_2024_parametrized_reporting) about parametrized reporting
